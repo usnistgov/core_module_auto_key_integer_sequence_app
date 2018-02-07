@@ -4,7 +4,7 @@ from core_module_auto_key_app.views.views import AutoKeyModule
 
 
 def generate_int_sequence(values):
-    """
+    """ Return next integer value
 
     Args:
         values:
@@ -16,7 +16,7 @@ def generate_int_sequence(values):
 
 
 class AutoKeyIntModule(AutoKeyModule):
-    """ Random Integer auto key module
+    """ Integer Sequence auto key module
     """
 
     def __init__(self):
