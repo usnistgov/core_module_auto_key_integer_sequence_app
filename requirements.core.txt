@@ -1,1 +1,1 @@
-core-module-auto-key-app==1.10.*
+core-module-auto-key-app==1.11.*
